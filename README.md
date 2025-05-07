@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thisara Edrisingha</h1>
-<h3 align="center">A passionate FullStack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate AI & Data Science from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/@thisaraediri" target="blank"><img src="https://img.shields.io/twitter/follow/@thisaraediri?logo=twitter&style=for-the-badge" alt="@thisaraediri" /></a> </p>
 
-- 🔭 I’m currently working on **Product Management system for a company**
+- 🔭 I’m currently working asa a **Data Analysist at Seylan Bank Sri Lanka**
 
-- 🌱 I’m currently learning **Anuguler,flutter,AI**
+- 🌱 I’m currently learning **Azure Technologies AI and Data Science**
 
-- 🤝 I’m looking for help with **Internship complete**
+- 🤝 I’m looking for help with **AI Engineer or Data Scientist Job**
 
 - 📝 I regularly write articles on [https://techwiththisara.blogspot.com/](https://techwiththisara.blogspot.com/)
 
-- 💬 Ask me about **Software Devolopment**
+- 💬 Ask me about **Computer Science Related Things**
 
 - ⚡ Fun fact **solo traveller**
 
