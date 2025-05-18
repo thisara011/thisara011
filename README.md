@@ -84,3 +84,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thisara011&theme=github-compact" />
 </p>
+
+### ☕ Buy Me a Coffee
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thisara011" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+  </a>
+</p>
