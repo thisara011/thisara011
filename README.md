@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisara01&show_icons=true&locale=en&layout=compact" alt="thisara01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisara01&show_icons=true&locale=en" alt="thisara01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisara01&show_icons=true&locale=en" alt="thisara011" /></p>
