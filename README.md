@@ -3,6 +3,11 @@
 <h1 align="center">Hello 👋, I'm Thisara Edrisingha</h1>
 <h3 align="center">A passionate AI & Data Science enthusiast from Sri Lanka</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thisara011&label=Profile%20views&color=0e75b6&style=flat" alt="thisara011" />
+</p>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 ---
