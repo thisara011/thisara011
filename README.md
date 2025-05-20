@@ -12,16 +12,7 @@
 
 ---
 
-### 🧑‍💻 Quick Info & Badges
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20@%20Seylan%20Bank-informational?style=flat-square&logo=data" />
-  <img src="https://img.shields.io/badge/Learning-Azure,%20AI,%20Data%20Science-brightgreen?style=flat-square&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Blog-techwiththisara.blogspot.com-orange?style=flat-square&logo=blogger" />
-  <img src="https://img.shields.io/badge/Achievement-Solo%20Traveller-blueviolet?style=flat-square&logo=googlemaps" />
-</p>
-
----
 
 - 🔭 I’m currently working as a **Data Analyst at Seylan Bank, Sri Lanka**
 - 🌱 I’m currently learning **Azure Technologies, AI, and Data Science**
