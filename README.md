@@ -23,14 +23,25 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="[https://twitter.com/thisaraediri](https://twitter.com/Thisaraediri?t=v4evBNruHS8WZffBuGaU7w&s=09)" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/thisaraedirisingha](http://www.linkedin.com/in/thisara-edirisingha-4b9515198)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://fb.com/thisaraedirisingha](https://www.facebook.com/adikari.madubhashane.1?mibextid=ZbWKwL)" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="[https://instagram.com/thisaraedirisingha](https://instagram.com/thisaraedirisinhe?igshid=MzNlNGNkZWQ4Mg==)" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://medium.com/@thisaraedirisinghahttps://medium.com/@thisaraedirisinha9" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/Thisaraediri" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="http://www.linkedin.com/in/thisara-edirisingha-4b9515198" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/adikari.madubhashane.1" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thisaraedirisinhe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@thisaraedirisinha9" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
