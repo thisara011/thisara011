@@ -140,6 +140,10 @@
 ### ☕ Buy Me a Coffee
 
 <p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="150" alt="coffee animation" />
+</p>
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/thisara011" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
